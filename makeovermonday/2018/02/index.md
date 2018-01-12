@@ -13,14 +13,14 @@ Studio][datastudio] to explore the dataset.
 
 The dataset is hosted on [data.world][data.world dataset].
 
--   Step 1: We opened the [data.world Community Connector][data.world cc] to
-    directly connect with data.world's API from Data Studio.
--   Step 2: We configured the connector using these inputs:
-    -   Dataset or Project URL \
-        `https://data.world/makeovermonday/2018-w-2-looks-vs-personality/`
-    -   SQL Query \
-        `Select * from looks_vs_personality`
--   Step 3 (optional): In the fields screen, we changed type of the `percentage`
+- Step 1: We opened the [data.world Community Connector][data.world cc] to
+  directly connect with data.world's API from Data Studio.
+- Step 2: We configured the connector using these inputs:
+    - Dataset or Project URL  
+      `https://data.world/makeovermonday/2018-w-2-looks-vs-personality/`
+    - SQL Query  
+      `Select * from looks_vs_personality`
+- Step 3 (optional): In the fields screen, we changed type of the `percentage`
     field from *Numeric* to *Percentage*
 
 ## Exploratory analysis
